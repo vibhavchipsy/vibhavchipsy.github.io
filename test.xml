@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<library>
-    <book id="1">
-        <title>The Great Gatsby</title>
-        <author>F. Scott Fitzgerald</author>
-        <genre>Fiction</genre>
-        <year>1925</year>
-    </book>
-    <book id="2">
-        <title>1984</title>
-        <author>George Orwell</author>
-        <genre>Dystopian</genre>
-        <year>1949</year>
-    </book>
-    <book id="3">
-        <title>To Kill a Mockingbird</title>
-        <author>Harper Lee</author>
-        <genre>Fiction</genre>
-        <year>1960</year>
-    </book>
-</library>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://exploringideasinnovations.blogspot.com/2025/04/revolutionising-healthcare-with-abdm.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Exploring Ideas & Innovations</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-24T11:30:00Z</news:publication_date>
+      <news:title>Revolutionising Healthcare with ABDM HMIS</news:title>
+    </news:news>
+  </url>
+
+</urlset>
